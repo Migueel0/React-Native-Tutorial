@@ -13,7 +13,7 @@ To run correctly this proyect you will need:
 ## RUNNING THE PROJECT
 Before running the project you will need to install all node dependences.
 
-* **Installing dependences:** Inside the project folder run `npm install`
+* **Installing dependences:** Inside the project folder(IISSI2-IS-Frontend-Owner) run `npm install`
 * **Running the project:** Run `npm start`, it will show you a menu in order to choose the execution environment. If you want to open the project in the browser just type `w`. If you want to run the mobile version just scan the QR code with **Expo Go** App. 
 
 
